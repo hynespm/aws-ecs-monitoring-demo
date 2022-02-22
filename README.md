@@ -1,2 +1,5 @@
-# aws-ecs-monitoring-demo
-Demonstration repository for ECS and monitoring an application with Cloudwatch Metrics and Dashbaord
+## Description: Repoistory to demonstrate how to deploy an ECS cluster with a service which is being monitored by Cloudwatch
+
+
+
+TO BE COMPLETED :)
